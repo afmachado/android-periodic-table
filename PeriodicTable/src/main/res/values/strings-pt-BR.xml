@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tabela Periódica</string>
+    <string name="author_name" translatable="false">Frozen Developers</string>
+
+    <!-- Fragments -->
+    <string name="fragment_title_elements">Elementos</string>
+    <string name="fragment_title_table">Tabela</string>
+    <string name="fragment_title_properties">PROPRIEDADES</string>
+    <string name="fragment_title_isotopes">ISÓTOPOS</string>
+
+    <!-- Progress bar -->
+    <string name="progressbar_loading">Carregando…</string>
+
+    <!-- Menu items -->
+    <string name="action_search">Pesquisar</string>
+    <string name="action_settings">Configurações</string>
+    <string name="action_wikipedia_article">Artigo na Wikipédia</string>
+
+    <string name="context_title_options">Opções</string>
+    <string name="context_copy">Copiar</string>
+
+    <!-- Search -->
+    <string name="search_query_hint">Nome, símbolo ou Z</string>
+
+    <!-- Empty views -->
+    <string name="empty_view_no_such_element">Nenhum elemento.</string>
+
+    <!-- Properties headers -->
+    <string name="properties_header_general">Propriedades gerais</string>
+    <string name="properties_header_physical">Propriedades físicas</string>
+    <string name="properties_header_atomic">Propriedades atômicas</string>
+    <string name="properties_header_miscellanea">Miscelânea</string>
+
+    <!-- Properties names -->
+    <string name="property_name">Nome</string>
+    <string name="property_symbol">Símbolo</string>
+    <string name="property_atomic_number">Número atômico</string>
+    <string name="property_weight">Peso atômico padrão</string>
+    <string name="property_group">Grupo</string>
+    <string name="property_period">Período</string>
+    <string name="property_block">Bloco</string>
+    <string name="property_category">Categoria</string>
+    <string name="property_electron_configuration">Configuração do elétron</string>
+    <string name="property_electrons_per_shell">Elétrons por camada</string>
+    <string name="property_appearance">Aparência</string>
+    <string name="property_phase">Estágio</string>
+    <string name="property_density">Densidade</string>
+    <string name="property_liquid_density_at_mp">Densidade líquida em ponto de fusão</string>
+    <string name="property_liquid_density_at_bp">Densidade líquida em ponto de ebulição</string>
+    <string name="property_melting_point">Ponto de fusão</string>
+    <string name="property_sublimation_point">Ponto de sublimação</string>
+    <string name="property_boiling_point">Ponto de ebulição</string>
+    <string name="property_triple_point">Ponto triplo</string>
+    <string name="property_critical_point">Ponto crítico</string>
+    <string name="property_heat_of_fusion">Calor da fusão</string>
+    <string name="property_heat_of_vaporization">Calor da vaporização</string>
+    <string name="property_molar_heat_capacity">Capacidade de calor molar</string>
+    <string name="property_oxidation_states">Estados de oxidação</string>
+    <string name="property_electronegativity">Eletronegatividade</string>
+    <string name="property_molar_ionization_energies">Energias de ionização molares</string>
+    <string name="property_atomic_radius">Raio atômico</string>
+    <string name="property_covalent_radius">Raio covalente</string>
+    <string name="property_van_der_waals_radius">Raio Van der Waals</string>
+    <string name="property_crystal_structure">Estrutura do cristal</string>
+    <string name="property_magnetic_ordering">Ordenamento magnético</string>
+    <string name="property_thermal_conductivity">Condutividade Térmica</string>
+    <string name="property_thermal_expansion">Expansão Térmica</string>
+    <string name="property_thermal_diffusivity">Difusão Térmica</string>
+    <string name="property_electrical_resistivity">Resistência elétrica</string>
+    <string name="property_band_gap">Banda proibida</string>
+    <string name="property_curie_point">Ponto Curie</string>
+    <string name="property_tensile_strength">Força tênsil</string>
+    <string name="property_speed_of_sound">Velocidade do som</string>
+    <string name="property_poisson_ratio">Relação de Poisson</string>
+    <string name="property_youngs_modulus">Módulo de Young</string>
+    <string name="property_shear_modulus">Módulo de Shear</string>
+    <string name="property_bulk_modulus">Módulo de Massa</string>
+    <string name="property_mohs_hardness">Dureza de Mohs</string>
+    <string name="property_vickers_hardness">Dureza de Vickers</string>
+    <string name="property_brinell_hardness">Dureza de Brinell</string>
+    <string name="property_cas_number">Número CAS</string>
+
+    <!-- Properties symbols -->
+    <string name="property_atom_symbol">X</string>
+    <string name="property_relative_atomic_mass_symbol">Aᵣ</string>
+    <string name="property_atomic_number_symbol">Z</string>
+
+    <!-- Isotopes properties -->
+    <string name="property_half_life">Meia-vida</string>
+    <string name="property_decay_modes">Modos de enfraquecimento</string>
+    <string name="property_spin">Girar</string>
+    <string name="property_abundance">Abundância natural</string>
+
+    <!-- Translatable values -->
+    <string name="property_value_unknown">Desconhecido</string>
+    <string name="property_value_none">Nenhum</string>
+    <string name="property_value_stable">Estável</string>
+    <string name="property_value_trace">Sinal</string>
+
+    <!-- Preferences -->
+    <string name="preferences_settings">Configurações</string>
+    <string name="preferences_main_preferences">Preferências principais</string>
+    <string name="preferences_category_about">Sobre</string>
+    <string name="preferences_category_special_thanks">Agredecimento especial</string>
+
+    <string name="preferences_download_wifi_only">Download de imagens somente com conexão Wi-Fi</string>
+    <string name="preferences_download_wifi_only_summary">Para reduzir pagamento de dados móveis, não faça download de imagens através da rede móvel</string>
+    <string name="preferences_download_wifi_only_key" translatable="false">download_wifi_only</string>
+
+    <!-- About screen -->
+    <string name="preference_about_app">Sobre Tabela Periódica</string>
+    <string name="preference_author">Autor</string>
+    <string name="preference_version_number">Número da versão</string>
+    <string name="preference_version_number_unknown">Desconhecido</string>
+    <string name="preference_open_source_licences">Licenças de software livre</string>
+
+    <string name="preference_samuels_graphics" translatable="false">Samuel\'s Graphics</string>
+    <string name="preference_samuels_graphics_desc">Design de ícone e banner da Play Store</string>
+
+    <!-- Element categories -->
+    <string name="category_actinides">Actinídeos</string>
+    <string name="category_alkali_metals">Metais alcalinos</string>
+    <string name="category_alkaline_earth_metals">Metais alcalinos-terrosos</string>
+    <string name="category_diatomic_nonmetals">Não-metais diatômicos</string>
+    <string name="category_lanthanides">Lantanídeos</string>
+    <string name="category_metalloids">Metalóides</string>
+    <string name="category_noble_gases">Gases nobres</string>
+    <string name="category_polyatomic_nonmetals">Não-metais poliatômicos</string>
+    <string name="category_other_metals">Metais de pós transição</string>
+    <string name="category_transition_metals">Metais de transição</string>
+    <string name="category_unknown">Propriedades químicas desconhecidas</string>
+
+    <!-- Transitions -->
+    <string name="transition_table_item" translatable="false">table_item</string>
+
+</resources>
